@@ -1,9 +1,15 @@
 {
-  "users": [
+  "keys": [
     {
-      "device_id": "2d0f4c2794f4e139",
-      "expiry_date": "2026-12-31",
-      "key": "KhFmvC8PKC01RzBE"
+      "key": "GUEST-1234",
+      "expiry": "2026-12-31",
+      "hwid": "device_id_here"
+    },
+    {
+      "key": "ADMIN-9999",
+      "expiry": "lifetime",
+      "hwid": "admin_device_id"
     }
   ]
 }
+
