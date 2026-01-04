@@ -1,0 +1,14 @@
+{
+  "keys": [
+    {
+      "key": "PREMIUM-123-LIFE",
+      "deviceId": "a1b2c3d4e5",
+      "expiry": "lifetime"
+    },
+    {
+      "key": "TRIAL-456-EXP",
+      "deviceId": "f6g7h8i9j0",
+      "expiry": "2026-12-31"
+    }
+  ]
+}
