@@ -1,7 +1,12 @@
 {
   "keys": [
     {
-      "key": "SyaV5CPcGsKKw4wW",
+      "key": "Admin",
+      "deviceId": "e2e187268002cd99",
+      "expiry": "lifetime"
+    },
+    {
+      "key": "Admin2",
       "deviceId": "e2e187268002cd99",
       "expiry": "2025-12-30"
     },
