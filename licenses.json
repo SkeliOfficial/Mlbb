@@ -69,6 +69,11 @@
       "key": "uZIVqVExpc1Ol5Yd",
       "deviceId": "745c99849c54eca8",
       "expiry": "lifetime"
+    },
+    {
+      "key": "CwWw75FSQLk3agun",
+      "deviceId": "9de7358c2d6598a4",
+      "expiry": "lifetime"
     }
   ]
 }
