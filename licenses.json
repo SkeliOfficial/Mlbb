@@ -119,6 +119,11 @@
       "key": "sPKLRL3cJFpPZlFc",
       "deviceId": "981eef11514a4dd6",
       "expiry": "lifetime"
+    },
+    {
+      "key": "KHT4GrUIe3IxbaP9",
+      "deviceId": "a09d3f4eefda496a",
+      "expiry": "lifetime"
     }
   ]
 }
