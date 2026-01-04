@@ -74,6 +74,11 @@
       "key": "CwWw75FSQLk3agun",
       "deviceId": "9de7358c2d6598a4",
       "expiry": "lifetime"
+    },
+    {
+      "key": "7vbvc82QuqUTU0ZA",
+      "deviceId": "e8c3ee9aa6cc937d",
+      "expiry": "lifetime"
     }
   ]
 }
