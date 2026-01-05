@@ -133,17 +133,12 @@
     {
       "key": "KjotAesdvPJDYnJ3",
       "deviceId": "da689ac0fa9c1128",
-      "expiry": "2026-01-13"
+      "expiry": "lifetime"
     },
     {
       "key": "ThVnODNAn8GPpKsf",
       "deviceId": "207f68f8a9ab6305",
       "expiry": "lifetime"
-    },
-    {
-      "key": "vcwRBrtEFFlB99KG",
-      "deviceId": "da689ac0fa9c1128",
-      "expiry": "2026-01-30"
     }
   ]
 }
