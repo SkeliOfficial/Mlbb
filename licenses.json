@@ -139,6 +139,11 @@
       "key": "ThVnODNAn8GPpKsf",
       "deviceId": "207f68f8a9ab6305",
       "expiry": "lifetime"
+    },
+    {
+      "key": "hEoEZXT7YUFdHRf8",
+      "deviceId": "044bde96952efd6e",
+      "expiry": "lifetime"
     }
   ]
 }
