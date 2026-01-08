@@ -164,6 +164,11 @@
       "key": "Hc4PqZ6s4Z1edr8y",
       "deviceId": "9882334626abcc7f",
       "expiry": "2026-01-22"
+    },
+    {
+      "key": "rVHAD4nl1iAEuHwk",
+      "deviceId": "fc32ef45a83e990f",
+      "expiry": "lifetime"
     }
   ]
 }
