@@ -2,17 +2,17 @@
 
 
 # 𝗜𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻
-Injector for Mobile Legends Bang Bang for free, no need Root,
-Support all android devices.
+𝘐𝘯𝘫𝘦𝘤𝘵𝘰𝘳 𝘧𝘰𝘳 𝘔𝘰𝘣𝘪𝘭𝘦 𝘓𝘦𝘨𝘦𝘯𝘥𝘴 𝘉𝘢𝘯𝘨 𝘉𝘢𝘯𝘨 𝘧𝘰𝘳 𝘧𝘳𝘦𝘦, 𝘯𝘰 𝘯𝘦𝘦𝘥 𝘙𝘰𝘰𝘵,
+𝘚𝘶𝘱𝘱𝘰𝘳𝘵 𝘢𝘭𝘭 𝘢𝘯𝘥𝘳𝘰𝘪𝘥 𝘥𝘦𝘷𝘪𝘤𝘦𝘴.
 
 # 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀
-- Drone View
-- Extra Damage
-- Maximize Fps
-- Fast Animation
-- Net Boost
-- No Root
-- No Detect
+- 𝘋𝘳𝘰𝘯𝘦 𝘝𝘪𝘦𝘸
+- 𝘌𝘹𝘵𝘳𝘢 𝘋𝘢𝘮𝘢𝘨𝘦
+- 𝘔𝘢𝘹𝘪𝘮𝘪𝘻𝘦 𝘍𝘱𝘴
+- 𝘍𝘢𝘴𝘵 𝘈𝘯𝘪𝘮𝘢𝘵𝘪𝘰𝘯
+- 𝘕𝘦𝘵 𝘉𝘰𝘰𝘴𝘵
+- 𝘕𝘰 𝘙𝘰𝘰𝘵
+- 𝘕𝘰 𝘋𝘦𝘵𝘦𝘤𝘵
 
 # 𝗦𝗼𝗰𝗶𝗮𝗹𝘀
-If you have questions or clarifications, message me on my Telegram @imskeli or you can also message me on Discord @imskeli
+𝘐𝘧 𝘺𝘰𝘶 𝘩𝘢𝘷𝘦 𝘲𝘶𝘦𝘴𝘵𝘪𝘰𝘯𝘴 𝘰𝘳 𝘤𝘭𝘢𝘳𝘪𝘧𝘪𝘤𝘢𝘵𝘪𝘰𝘯𝘴, 𝘮𝘦𝘴𝘴𝘢𝘨𝘦 𝘮𝘦 𝘰𝘯 𝘮𝘺 𝘛𝘦𝘭𝘦𝘨𝘳𝘢𝘮 @𝘪𝘮𝘴𝘬𝘦𝘭𝘪 𝘰𝘳 𝘺𝘰𝘶 𝘤𝘢𝘯 𝘢𝘭𝘴𝘰 𝘮𝘦𝘴𝘴𝘢𝘨𝘦 𝘮𝘦 𝘰𝘯 𝘋𝘪𝘴𝘤𝘰𝘳𝘥 @𝘪𝘮𝘴𝘬𝘦𝘭𝘪
